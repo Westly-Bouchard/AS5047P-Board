@@ -60,20 +60,20 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|137296166|94263708|e58a8f3f-b4a1-4aeb-826c-19ef4f0547e9|e58a8f3f-b4a1-4aeb-826c-19ef4f0547e9",
-          "Mounting Pins"
+          "lib_footprint_mismatch|140550000|100000000|a7cd0f78-07d2-401c-bc1f-9586dd8e1ca9|00000000-0000-0000-0000-000000000000",
+          ""
         ],
         [
-          "unconnected_items|138649335|106813055|1516492c-2828-4b40-9e67-3d12a1db3d17|1516492c-2828-4b40-9e67-3d12a1db3d17",
-          "Mounting Pins"
+          "lib_footprint_mismatch|150000000|107950000|ead5dc45-44a3-4c4e-b304-531acc8446c9|00000000-0000-0000-0000-000000000000",
+          ""
         ],
         [
-          "unconnected_items|155543635|88323178|73f7ac3b-f80f-4925-8027-995b8ee42f31|73f7ac3b-f80f-4925-8027-995b8ee42f31",
-          "Mounting Pins"
+          "lib_footprint_mismatch|150000000|92050000|ac77d46d-81e2-482e-854a-4210bd972d17|00000000-0000-0000-0000-000000000000",
+          ""
         ],
         [
-          "unconnected_items|155593635|111651822|692c3089-680e-4625-a9a9-6b6053e01781|692c3089-680e-4625-a9a9-6b6053e01781",
-          "Mounting Pins"
+          "lib_footprint_mismatch|159450000|100000000|f4628476-bb91-4cfe-abe2-240f7ffa8e4c|00000000-0000-0000-0000-000000000000",
+          ""
         ]
       ],
       "meta": {

@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 33,
+    "active_layer": 7,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -50,8 +50,8 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffdff5_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffffffff_ffffffff_ffffdff5_dfff55da",
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",

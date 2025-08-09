@@ -1,0 +1,16 @@
+### Footprint positions - created on 2025-08-07T14:15:28-0600 ###
+### Printed by KiCad version 9.0.3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                                               PosX       PosY       Rot  Side
+C1        100nF                   C_0402_1005Metric                                 156.7500   -97.3500   50.0000  top
+C2        1uF                     C_0402_1005Metric                                 153.4500   -95.9500   90.0000  top
+J1        Conn_01x06_MountingPin  JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal   141.9750   -92.1000  -140.0000  top
+J2        Conn_01x05_MountingPin  JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal   158.0082   -92.1535  140.0000  top
+J3        Conn_01x05_MountingPin  JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal   158.0582  -107.8215   40.0000  top
+J4        Conn_01x03_MountingPin  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   141.8918  -107.7715  -40.0000  top
+R1        10k                     R_0402_1005Metric                                 150.4500   -95.6500  180.0000  top
+R2        10k                     R_0402_1005Metric                                 146.8000   -95.2500  135.0000  top
+R3        10k                     R_0402_1005Metric                                 144.7000  -100.6000   90.0000  top
+U1        AS5047P                 TSSOP-14_4.4x5mm_P0.65mm                          150.0000  -100.0000    0.0000  top
+## End
