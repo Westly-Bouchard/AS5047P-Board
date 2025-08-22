@@ -1,0 +1,32 @@
+# KiCad backup & autosave
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+*.tmp
+
+# Cache files
+fp-info-cache
+sym-lib-table-bak
+eeschema.autosave
+eeschema.*.autosave
+
+# Generated output
+*.net
+*.xml
+*.csv
+*.tsv
+*.json
+
+# Simulation outputs
+*.raw
+*.log
+*.spice
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python / build junk
+__pycache__/
+*.pyc
