@@ -1,5 +1,6 @@
 # KiCad backup & autosave
 *-backups/
+*-backups
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *.bak
