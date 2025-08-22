@@ -6,6 +6,10 @@
 *.bak
 *.tmp
 
+# KiCad lock files
+*.lck
+~*.lck
+
 # Cache files
 fp-info-cache
 sym-lib-table-bak
