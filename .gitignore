@@ -19,7 +19,6 @@ eeschema.*.autosave
 # Generated output
 *.net
 *.xml
-*.csv
 *.tsv
 *.json
 

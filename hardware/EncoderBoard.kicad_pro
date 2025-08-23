@@ -470,6 +470,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -517,7 +518,7 @@
       "idf": "",
       "netlist": "",
       "plot": "gerber/",
-      "pos_files": "placement/",
+      "pos_files": "../fabrication/placement/",
       "specctra_dsn": "",
       "step": "../../../../Downloads/EncoderBoard.step",
       "svg": "",
