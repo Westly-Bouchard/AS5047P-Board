@@ -1,0 +1,8 @@
+Item #;Designator;Quantity;Manufacturer;Mfg Part #;Description / Value;Package / Footprint;Notes
+1;J1;1;JST;SM06B-GHS-TB(LF)(SN);;SMD,P=1.25mm,Surface Mount,Right Angle;
+2;U1;1;AMS;AS5047P-ATSM;AS5047P;TSSOP-14;
+3;J4;1;JST;SM03B-GHS-TB(LF)(SN);;SMD,P=1.25mm,Surface Mount,Right Angle;
+4;R1,R2,R3;3;;;10k;0402;10kOhm Resistor, 0402R
+5;J2,J3;2;JST;SM05B-GHS-TB(LF)(SN);;SMD,P=1.25mm,Surface Mount,Right Angle;
+6;C1;1;;;100nF;0402;100nF Capacitor, 0402C
+7;C2;1;;;1uF;0402;1uF Capacitor, 0402C
