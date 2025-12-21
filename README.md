@@ -39,7 +39,7 @@ PCBWay's amazing customer service team will email you with updates and to check 
 
 > ✅ Results
 > 
-> I may be biased, but I've found that PCBWay is the easiest way to get boards made. The quality of the silkscreen and accuracy of component placement are great. And, the constant updates & communications from the PCBWay team give me great confidence that my projects will succeed on the first try!
+> I may be biased, but I've found that PCBWay is easily the best way to get PCBs made. The quality of the silkscreen and accuracy of component placement are great. And, the constant updates & communications from the PCBWay team give me great confidence that my projects will succeed on the first try.
 >
 > I highly recommend their services. And, by supporting them, you support small projects and independent designers like myself!
 <hr>
