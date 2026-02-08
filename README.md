@@ -1,7 +1,7 @@
   Big thanks to [PCBWay](https://www.pcbway.com/) for sponsoring this project! Their support enables me (and hundreds of other designers) to make cool stuff. More info in [Manufacturing](#manufacturing)
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); grid-gap: 1rem;">
-  <img src="images/board_irl.jpeg">
-  <img style="margin: auto; width: 500px" src="images/Encoder Board V2 Image.png"/>
+<div align="center">
+  <img src="images/Encoder Board V2 Image.png" width="40%">
+  <img src="images/board_irl.jpeg" width="34%">
 </div>
 <br>
 <p>
