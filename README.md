@@ -1,9 +1,9 @@
   Big thanks to [PCBWay](https://www.pcbway.com/) for sponsoring this project! Their support enables me (and hundreds of other designers) to make cool stuff. More info in [Manufacturing](#manufacturing)
-<div align="center">
-  <!-- <img style="margin: auto; width: 500px" src="https://github.com/user-attachments/assets/754f7860-e2d3-4e09-b584-bd55c48fb215"/> -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); grid-gap: 1rem;">
+  <img src="images/board_irl.jpeg">
   <img style="margin: auto; width: 500px" src="images/Encoder Board V2 Image.png"/>
 </div>
-
+<br>
 <p>
 This is a breakout pcb for the commonly used AS5047P magnetic position sensor IC. Its SPI communication protocols are supported by many motor drivers such as VESCs and ODrives (newer ODrives have them built in, but boards based on the older open source designs like the ODesc don't). I designed this in KiCad, so if you want to work on it you'll need to install that.
 
